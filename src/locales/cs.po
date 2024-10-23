@@ -8,7 +8,7 @@ msgstr ""
 "Language: cs\n"
 "Project-Id-Version: enstack-test-2\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-23 01:59\n"
+"PO-Revision-Date: 2024-10-23 02:46\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
@@ -68,3 +68,4 @@ msgstr "Příklad množného čísla:"
 #: src/App.tsx:64
 msgid "Today is {0}"
 msgstr "Dnes je {0}"
+
