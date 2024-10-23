@@ -1,0 +1,8 @@
+{
+  "app.title": "Ứng Dụng Của Tôi",
+  "app.welcome_message": "Chào mừng, {username}!",
+  "app.logout": "Đăng xuất",
+  "app.login": "Đăng nhập",
+  "app.error_404": "Không tìm thấy trang",
+  "app.items_count": "Bạn có {count} sản phẩm trong giỏ hàng của mình"
+}

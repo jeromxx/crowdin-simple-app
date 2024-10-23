@@ -1,0 +1,8 @@
+{
+  "app.title": "Enstack",
+  "app.welcome_message": "Welcome, {username}!",
+  "app.logout": "Log out",
+  "app.login": "Log in",
+  "app.error_404": "Page not found",
+  "app.items_count": "You havee {count} tem(s) in your cart"
+}
