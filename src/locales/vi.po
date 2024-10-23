@@ -19,53 +19,60 @@ msgstr ""
 "X-Crowdin-File-ID: 6\n"
 
 #. js-lingui-explicit-id
-#: src/App.tsx:14
+#: src/App.tsx:15
 msgid "app.welcome_message"
 msgstr ""
 
 #. js-lingui-explicit-id
-#: src/App.tsx:83
+#: src/App.tsx:84
 msgid "app.items_count"
 msgstr ""
 
-#: src/App.tsx:78
-#: src/App.tsx:82
+#: src/App.tsx:79
+#: src/App.tsx:83
 msgid "{0}"
 msgstr ""
 
-#: src/App.tsx:54
+#: src/App.tsx:53
+#~ msgid "{count, plural, zero {There are no books} one {There's one book} other {There are {count} books}}"
+#~ msgstr ""
+
+#: src/App.tsx:55
 msgid "{count, plural, zero {There are no books} one {There's one book} other {There are # books}}"
 msgstr "{count, plural, zero {Không có sách} one {Có một quyển sách} other {Có # quyển sách}}"
 
-#: src/App.tsx:61
+#: src/App.tsx:62
 msgid "Date formatter example:"
 msgstr "Ví dụ định dạng ngày:"
 
-#: src/App.tsx:51
+#: src/App.tsx:52
 msgid "Decrement"
 msgstr "Giảm"
 
-#: src/App.tsx:70
+#: src/App.tsx:71
 msgid "I have a balance of {0}"
 msgstr "Tôi có số dư {0}"
 
-#: src/App.tsx:48
+#: src/App.tsx:49
 msgid "Increment"
 msgstr "Tăng"
 
-#: src/App.tsx:29
+#: src/App.tsx:30
 msgid "Language switcher example:"
 msgstr "Ví dụ chuyển đổi ngôn ngữ:"
 
-#: src/App.tsx:67
+#: src/App.tsx:68
 msgid "Number formatter example:"
 msgstr "Ví dụ định dạng số sadw:"
 
-#: src/App.tsx:44
+#: src/App.tsx:45
 msgid "Plurals example:"
 msgstr "Ví dụ số nhiều:"
 
-#: src/App.tsx:64
+#: src/App.tsx:65
 msgid "Today is {0}"
 msgstr "Hôm nay là {0}"
 
+#: src/App.tsx:75
+#~ msgid "Welcome message:"
+#~ msgstr ""

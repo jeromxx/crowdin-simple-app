@@ -1,0 +1,9 @@
+{
+    "app.title": "Enstack",
+    "app.welcome_message": "Maligayang pagdating, {username}!",
+    "app.logout": "Mag-logout",
+    "app.login": "Mag-login",
+    "app.error_404": "Hindi nahanap ang pahina",
+    "app.items_count": "Mayroon kang {count} item(s) sa iyong cart"
+  }
+  
