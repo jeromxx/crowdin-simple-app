@@ -1,0 +1,13 @@
+"project_id": "730201"
+"api_token": "bb5b7a55a8f526f685ef77bd91f3067a8b695f7a10fc60ec2ecd1afb399ed83fa09d43d494ba8d43"
+"base_path": "."
+"base_url": "https://api.crowdin.com"
+
+"preserve_hierarchy": true
+
+"files": [
+  {
+    "source": "src/locales/en/messages.po",
+    "translation": "src/locales/%two_letters_code%/messages.po" 
+  },
+]
