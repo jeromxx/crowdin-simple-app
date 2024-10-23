@@ -3,6 +3,7 @@ import { i18n, Messages } from "@lingui/core"
 export const locales = {
   en: "English",
   cs: "Česky",
+  vi: "Tiếng Việt",
 }
 export const defaultLocale = "en"
 
