@@ -7,7 +7,7 @@
 
 "files": [
   {
-    "source": "src/locales/en/messages.po",
-    "translation": "src/locales/%two_letters_code%/messages.po" 
+    "source": "src/locales/en.po",
+    "translation": "src/locales/%two_letters_code%.po" 
   },
 ]
