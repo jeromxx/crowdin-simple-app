@@ -2,7 +2,7 @@ name: Crowdin Action
 
 on:
   push:
-    paths: -'src/locales/**'
+    paths: ['src/locales/**']
     branches: [ main ]
 
 jobs:
