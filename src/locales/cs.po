@@ -15,7 +15,7 @@ msgstr ""
 
 #: src/App.tsx:43
 msgid "{count, plural, zero {There are no books} one {There's one book} other {There are # books}}"
-msgstr "asdmore"
+msgstr "asdmoretry2"
 
 #: src/App.tsx:50
 msgid "Date formatter example:"
