@@ -18,39 +18,53 @@ msgstr ""
 "X-Crowdin-File: /src/locales/en.po\n"
 "X-Crowdin-File-ID: 6\n"
 
-#: src/App.tsx:43
+#. js-lingui-explicit-id
+#: src/App.tsx:14
+msgid "app.welcome_message"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: src/App.tsx:83
+msgid "app.items_count"
+msgstr ""
+
+#: src/App.tsx:78
+#: src/App.tsx:82
+msgid "{0}"
+msgstr ""
+
+#: src/App.tsx:54
 msgid "{count, plural, zero {There are no books} one {There's one book} other {There are # books}}"
 msgstr "{count, plural, zero {Không có sách} one {Có một quyển sách} other {Có # quyển sách}}"
 
-#: src/App.tsx:50
+#: src/App.tsx:61
 msgid "Date formatter example:"
 msgstr "Ví dụ định dạng ngày:"
 
-#: src/App.tsx:40
+#: src/App.tsx:51
 msgid "Decrement"
 msgstr "Giảm"
 
-#: src/App.tsx:59
+#: src/App.tsx:70
 msgid "I have a balance of {0}"
 msgstr "Tôi có số dư {0}"
 
-#: src/App.tsx:37
+#: src/App.tsx:48
 msgid "Increment"
 msgstr "Tăng"
 
-#: src/App.tsx:19
+#: src/App.tsx:29
 msgid "Language switcher example:"
 msgstr "Ví dụ chuyển đổi ngôn ngữ:"
 
-#: src/App.tsx:56
+#: src/App.tsx:67
 msgid "Number formatter example:"
 msgstr "Ví dụ định dạng số sadw:"
 
-#: src/App.tsx:33
+#: src/App.tsx:44
 msgid "Plurals example:"
 msgstr "Ví dụ số nhiều:"
 
-#: src/App.tsx:53
+#: src/App.tsx:64
 msgid "Today is {0}"
 msgstr "Hôm nay là {0}"
-

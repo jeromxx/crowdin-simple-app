@@ -11,7 +11,7 @@
     "translation": "src/locales/%two_letters_code%.po" 
   },
   {
-    "source": "src/locales-esntack/en.json",
-    "translation": "src/locales-enstack/%two_letters_code%.po" 
+    "source": "src/locales/locales-esntack/en.json",
+    "translation": "src/locales/locales-enstack/%two_letters_code%.po" 
   },
 ]
