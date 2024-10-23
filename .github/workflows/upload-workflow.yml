@@ -18,8 +18,8 @@ jobs:
           upload_sources: true
           upload_translations: true
           download_translations: false
-          source: src/locale/en.json                     # Sources pattern
-          translation: src/locale/%android_code%.json    # Translations pattern
+          source: src/locale/en.po                     # Sources pattern
+          translation: src/locale/%android_code%.po    # Translations pattern
         env:
           CROWDIN_PROJECT_ID: 730201
           CROWDIN_PERSONAL_TOKEN: bb5b7a55a8f526f685ef77bd91f3067a8b695f7a10fc60ec2ecd1afb399ed83fa09d43d494ba8d43
